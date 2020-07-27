@@ -28,6 +28,7 @@ color: #f0ece3;
 
 ### title
 color: #f0ece3;
+font-family: 'Monoton', cursive;
 
 ### subtitle
 color: #596e79;
